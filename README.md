@@ -4,5 +4,12 @@ This is a personal book club for **_Build a Large Language Model from Scratch_**
 
 > 📚 For educational purposes only — not affiliated with the original creators.
 
+
+
+
+
 ## Resources
-- https://www.manning.com/books/build-a-large-language-model-from-scratch
+- Publisher Website for the Book: https://www.manning.com/books/build-a-large-language-model-from-scratch
+- Actual Git Repo for the book: https://github.com/rasbt/LLMs-from-scratch
+- How to install Jupyter Lab/Notebook: https://jupyter.org/install
+- Quick Primer/Tutorial on how to use/run Jupyter: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
