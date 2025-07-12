@@ -1,3 +1,127 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Mac Exclusions
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~ 
+.cache/
+Trash-*/ 
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Jupyter Notebook hidden files
+.profile
+
+# Virtualenv + pipenv
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Logs and debug files
+*.log
+
+# Model checkpoints and large data artifacts
+*.ckpt
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.onnx
+*.tflite
+*.mlmodel
+
+# TensorBoard
+events.out.tfevents.*
+
+# PyTorch Lightning, FastAI, etc.
+lightning_logs/
+logs/
+checkpoints/
+
+# Datasets and other large generated files
+data/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar
+*.gz
+*.npz
+*.npy
+
+# Auto-saved notebooks
+*.autosave.ipynb
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pytype
+.pytype/
+
+# Unit test and pytest
+.pytest_cache/
+.tox/
+
+# Jupyter Lab settings
+.lab/
+.jupyter/lab/workspaces/
+
+# HuggingFace
+*.lock
+*.safetensors
+tokenizer_config.json
+tokenizer.json
+special_tokens_map.json
+config.json
+merges.txt
+vocab.json
+
+# Others
+*.bak
+*.swp
+*.tmp
